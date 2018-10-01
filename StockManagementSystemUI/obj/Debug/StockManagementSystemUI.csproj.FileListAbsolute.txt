@@ -1,0 +1,209 @@
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.SearchAndView.UI.SearchAndView.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\2018\DotNet\DotNetWork\ProjectUpdate\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+G:\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\Dot Net\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\2018\BITM-50\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\Dot Net\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+F:\BITM-50\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+F:\BITM-50\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+F:\BITM-50\4-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\Kamruzzaman\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojAssemblyReference.cache
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.cache
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.CoreCompileInputs.cache
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+F:\BITM-50\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+F:\06-08-2018\06-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
+E:\2018\BITM-50\07-08-2018\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\itextsharp.dll
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojAssemblyReference.cache
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.cache
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.CoreCompileInputs.cache
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.CopyComplete
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\abc\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Category.UI.CetegoryFormUi.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Company.UI.CompanyUi.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.DashboardFormUI.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Form1.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Item.UI.ItemFormUi.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.SearchAndViewItem.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockIn.UI.StockInUi.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StokOut.UI.StockOutUi.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.UI.ViewSalesUI.resources
+E:\2018\BITM-50\BITM Project\ProjectSEIPBITM\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.csproj.GenerateResource.Cache
